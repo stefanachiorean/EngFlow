@@ -1,0 +1,9 @@
+[submodule "engflow-frontend"]
+	path = engflow-frontend
+	url = https://github.com/stefanachiorean/engflow-frontend.git
+[submodule "engflow-extension"]
+	path = engflow-extension
+	url = https://github.com/stefanachiorean/engflow-extension.git
+[submodule "engflow-backend"]
+	path = engflow-backend
+	url = https://github.com/stefanachiorean/engflow-backend.git
